@@ -41,6 +41,14 @@
 
 ---
 
+## 📌 Projetos em Desenvolvimento
+
+### 🔹 [Contact Controller](https://github.com/Leonardo-pagni/ContactController)
+Sistema para Controle de contatos, utilizando C#, ASP.NET e SQL Server. Explorando o diferentes tecnologias, como Sessões de usuários, Filters, ViewComponents, etc.
+
+---
+
+
 ## 📬 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-pagni-5a6a2b174/)
