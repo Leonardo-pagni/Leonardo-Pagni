@@ -18,7 +18,7 @@
 - 🧔 Tenho 22 anos e trabalho com desenvolvimento .NET há quase 2 anos
 - 🎓 Cursando Sistemas de Informação na **UNINOVE**
 - 🔍 Apaixonado por entender **como as coisas funcionam nos bastidores**
-- 💾 Sobrevivi ao lendário **Visual Studio 2005** e **SQL Server 2008**, mas estou sempre explorando o que há de mais moderno
+- 💾 Profissionalmente sou um sobrevivente do **Visual Studio 2005** e **SQL Server 2008**, mas estou sempre explorando o que há de mais moderno
 
 ---
 
