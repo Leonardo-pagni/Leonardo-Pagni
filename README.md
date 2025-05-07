@@ -1,7 +1,7 @@
 <h1 align="center">Fala pessoal! Eu sou o Leonardo Pagni 👋</h1>
 
 <p align="center">
-  🔧 Desenvolvedor .NET | 💾 SQL Server | 💡 Blazor | 🧱 Arquitetura de Software
+  🔧 Desenvolvedor .NET | 💾 SQL Server | 💡 Blazor 
 </p>
 
 <p align="center">
