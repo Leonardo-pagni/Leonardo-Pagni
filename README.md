@@ -25,7 +25,7 @@
 ## 💻 Tecnologias e Ferramentas
 
 ### 🧠 Back-end
-- C#, ASP.NET, Entity Framework
+- C#, ASP.NET, Entity Framework, .NET Core
 - SQL Server
 
 ### 🎨 Front-end
