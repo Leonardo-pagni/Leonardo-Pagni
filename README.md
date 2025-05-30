@@ -44,7 +44,9 @@
 ## 📌 Projetos em Destaque
 
 ### 🔹 [Contact Controller](https://github.com/Leonardo-pagni/ContactController)
-Sistema para Controle de contatos, utilizando C#, ASP.NET e SQL Server. Explorando o diferentes tecnologias, como Sessões de usuários, Filters, ViewComponents, etc.
+Sistema para Controle de contatos, utilizando C#, ASP.NET e SQL Server. Explorando diferentes tecnologias, como Sessões de usuários, Filters, ViewComponents, etc.
+### 🔹 [Blazor Shop](https://github.com/Leonardo-pagni/BlazorShop)
+Aplicação Web de um Ecommerce, utilizando C#, .NET Core e SQL Server. Arquitetura dividida em diferentes projetos na mesma solução, que são: Web, API e Class Library. Focado em explorar Blazor e Web Assembly.
 
 ---
 
