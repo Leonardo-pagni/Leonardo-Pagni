@@ -43,23 +43,6 @@
 ---
 
 ## 📌 Projetos em Destaque
-
-### 🔹 [Contact Controller](https://github.com/Leonardo-pagni/ContactController)
-Aplicação web desenvolvida com C#, ASP.NET MVC e SQL Server, focada no gerenciamento de contatos e usuários. O sistema implementa funcionalidades típicas de um CRUD completo (criação, leitura, atualização e exclusão) tanto para contatos quanto para usuários.
-
-🔐 Funcionalidades principais:
-Autenticação com login seguro e senhas criptografadas
-
-Controle de acesso utilizando Filters personalizados
-
-Armazenamento e gerenciamento de sessão com ASP.NET Sessions
-
-Utilização de ViewComponents para modularização da interface
-
-Organização baseada em boas práticas de MVC e separação de responsabilidades
-
-A aplicação é uma base sólida para explorar recursos clássicos e modernos do ASP.NET, com foco em segurança, escalabilidade e manutenção do código.
-
 ### 🔹 [Blazor Shop](https://github.com/Leonardo-pagni/BlazorShop)
 Projeto desenvolvido com foco em aprendizado e aplicação prática de tecnologias modernas do ecossistema .NET.
 A solução é composta por múltiplos projetos organizados em uma arquitetura limpa e modular:
