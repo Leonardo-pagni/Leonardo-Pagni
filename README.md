@@ -43,18 +43,26 @@
 ---
 
 ## 📌 Projetos em Destaque
-### 🔹 [Blazor Shop](https://github.com/Leonardo-pagni/BlazorShop)
-Projeto desenvolvido com foco em aprendizado e aplicação prática de tecnologias modernas do ecossistema .NET.
-A solução é composta por múltiplos projetos organizados em uma arquitetura limpa e modular:
+### 🔹 [Aluguel Container](https://github.com/Leonardo-pagni/Aluguel_Container)
+A solução segue o padrão de camadas proposto pela arquitetura limpa, sendo estruturada em:
 
-Web (Blazor WebAssembly) – Interface do usuário executada no navegador, escrita em C# com Blazor
+Domínio – Contém as entidades e regras de negócio essenciais da aplicação.
 
-API (.NET Core Web API) – Responsável pelo backend, expondo serviços e dados via REST
+Aplicação – Responsável pelos casos de uso e orquestração das operações do sistema.
 
-Class Library – Camada de domínio e regras de negócio compartilhadas entre os projetos
+Infraestrutura – Implementa os repositórios, serviços de persistência e acesso a dados.
 
-A aplicação utiliza Blazor WebAssembly para uma experiência SPA (Single Page Application) moderna, com backend separado via API em .NET Core e persistência de dados em SQL Server.
+Interface (Web API) – Camada de apresentação, onde são expostos os endpoints REST.
 
+Funcionalidades implementadas:
+
+Tela de cadastro de clientes
+
+Endpoint POST /api/clientes para cadastrar um novo cliente
+
+Endpoint GET /api/clientes para listar os clientes cadastrados
+
+Este projeto demonstra a separação clara de responsabilidades entre as camadas, facilitando a manutenção, escalabilidade e testabilidade da aplicação.
 ---
 
 
