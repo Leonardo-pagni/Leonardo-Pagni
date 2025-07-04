@@ -54,14 +54,6 @@ Infraestrutura – Implementa os repositórios, serviços de persistência e ace
 
 Interface (Web API) – Camada de apresentação, onde são expostos os endpoints REST.
 
-Funcionalidades implementadas:
-
-Tela de cadastro de clientes
-
-Endpoint POST /api/clientes para cadastrar um novo cliente
-
-Endpoint GET /api/clientes para listar os clientes cadastrados
-
 Este projeto demonstra a separação clara de responsabilidades entre as camadas, facilitando a manutenção, escalabilidade e testabilidade da aplicação.
 ---
 
