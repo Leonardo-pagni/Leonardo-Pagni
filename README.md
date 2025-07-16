@@ -37,8 +37,6 @@
 ## 🚧 Em constante evolução
 
 - Estudando padrões de projeto, boas práticas de arquitetura e ferramentas do ecossistema .NET
-- Explorando mais de perto o **.NET Core**, **Web APIs** e automações
-- Aprendendo Blazor e WebAssembly para desenvolvimento web moderno com .NET
 
 ---
 
