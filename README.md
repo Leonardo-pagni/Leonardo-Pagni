@@ -16,9 +16,9 @@
 ## 👨‍💻 Sobre mim
 
 - 🧔 Tenho 22 anos e trabalho com desenvolvimento .NET há quase 2 anos
-- 🎓 Cursando Sistemas de Informação na **UNINOVE**
+- 🎓 Formado em Sistemas de Informação
 - 🔍 Apaixonado por entender **como as coisas funcionam nos bastidores**
-- 💾 Profissionalmente sou um sobrevivente do **Visual Studio 2005** e **SQL Server 2008**, mas estou sempre explorando o que há de mais moderno
+- 💾 Profissionalmente sou um sobrevivente do **Visual Studio 2005** e **SQL Server 2008**, porém realizo ajustes em uma API rest, criando novos End Points e realizando melhorias sempre explorando o que há de mais moderno!
 
 ---
 
@@ -36,23 +36,15 @@
 
 ## 🚧 Em constante evolução
 
-- Estudando padrões de projeto, boas práticas de arquitetura e ferramentas do ecossistema .NET
+- Estudando padrões de projeto, boas práticas de arquitetura e ferramentas do ecossistema .NET(CQRS, Clean Architecture, DDD, etc.)
 
 ---
 
 ## 📌 Projetos em Destaque
-### 🔹 [Aluguel Container](https://github.com/Leonardo-pagni/Aluguel_Container)
-A solução segue o padrão de camadas proposto pela arquitetura limpa, sendo estruturada em:
+### 🔹 [Cadastro de Empresas](https://github.com/Leonardo-pagni/Aluguel_Container)
+API desenvolvida em ASP.NET Core seguindo arquitetura limpa (Domínio, Aplicação, Infraestrutura e Interface), com padrão CQRS (Commands, Queries e Handlers).
 
-Domínio – Contém as entidades e regras de negócio essenciais da aplicação.
-
-Aplicação – Responsável pelos casos de uso e orquestração das operações do sistema.
-
-Infraestrutura – Implementa os repositórios, serviços de persistência e acesso a dados.
-
-Interface (Web API) – Camada de apresentação, onde são expostos os endpoints REST.
-
-Este projeto demonstra a separação clara de responsabilidades entre as camadas, facilitando a manutenção, escalabilidade e testabilidade da aplicação.
+Permite o cadastro e consulta de empresas via CNPJ, integrando-se à API pública ReceitaWS, com autenticação JWT e suporte a Refresh Token.
 ---
 
 
