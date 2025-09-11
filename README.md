@@ -30,7 +30,7 @@
 
 ### 🎨 Front-end
 - JavaScript, HTML5, CSS3
-- Blazor (em constante exploração)
+- Blazor, Angular (em constante exploração)
 
 ---
 
@@ -40,17 +40,9 @@
 
 ---
 
-## 📌 Projetos em Destaque
-### 🔹 [Cadastro de Empresas](https://github.com/Leonardo-pagni/Aluguel_Container)
-API desenvolvida em ASP.NET Core seguindo arquitetura limpa (Domínio, Aplicação, Infraestrutura e Interface), com padrão CQRS (Commands, Queries e Handlers).
-
-Permite o cadastro e consulta de empresas via CNPJ, integrando-se à API pública ReceitaWS, com autenticação JWT e suporte a Refresh Token.
----
-
-
 ## 📬 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-pagni-5a6a2b174/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-pagni/)
 - 📧 Email: `leo_pagni@hotmail.com`
 
 ---
