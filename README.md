@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🧔 Tenho 22 anos e trabalho com desenvolvimento .NET há quase 2 anos
+- 🧔 Tenho 22 anos e trabalho com desenvolvimento .NET há mais de 2 anos
 - 🎓 Formado em Sistemas de Informação
 - 🔍 Apaixonado por entender **como as coisas funcionam nos bastidores**
 - 💾 Profissionalmente sou desenvolvedor .Net, atualmente direcionado no Projeto SisCOE(Sistema de Contas Estaduais) dentro do TCESP(Tribunal de Contas de São Paulo)
