@@ -1,7 +1,7 @@
 <h1 align="center">Fala pessoal! Eu sou o Leonardo Pagni 👋</h1>
 
 <p align="center">
-  🔧 Desenvolvedor .NET | 💾 SQL Server | 💡 Blazor 
+  🔧 Desenvolvedor .NET | 💾 SQL Server 
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🧔 Tenho 22 anos e trabalho com desenvolvimento .NET há mais de 2 anos
+- 🧔 Tenho 23 anos e trabalho com desenvolvimento .NET há mais de 2 anos
 - 🎓 Formado em Sistemas de Informação
 - 🔍 Apaixonado por entender **como as coisas funcionam nos bastidores**
 - 💾 Profissionalmente sou desenvolvedor .Net, atualmente direcionado no Projeto SisCOE(Sistema de Contas Estaduais) dentro do TCESP(Tribunal de Contas de São Paulo)
@@ -27,6 +27,7 @@
 ### 🧠 Back-end
 - C#, ASP.NET, Entity Framework, .NET Core
 - SQL Server
+- MinIO(Object Storage)
 
 ### 🎨 Front-end
 - JavaScript, HTML5, CSS3
