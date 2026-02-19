@@ -37,7 +37,7 @@
 
 ## 🚧 Em constante evolução
 
-- Estudando padrões de projeto, boas práticas de arquitetura e ferramentas do ecossistema .NET(CQRS, Clean Architecture, DDD, etc.)
+- Em andamento, Pós-Graduação em Software Architecture na FIAP.
 
 ---
 
