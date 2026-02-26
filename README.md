@@ -17,6 +17,7 @@
 
 - 🧔 Tenho 23 anos e trabalho com desenvolvimento .NET há mais de 2 anos
 - 🎓 Formado em Sistemas de Informação
+- 🎓 Pós Graduação em Arquitetura de Software na FIAP em andamento
 - 🔍 Apaixonado por entender **como as coisas funcionam nos bastidores**
 - 💾 Profissionalmente sou desenvolvedor .Net, atualmente direcionado no Projeto SisCOE(Sistema de Contas Estaduais) dentro do TCESP(Tribunal de Contas de São Paulo)
 
@@ -32,12 +33,6 @@
 ### 🎨 Front-end
 - JavaScript, HTML5, CSS3
 - Blazor, Angular (em constante exploração)
-
----
-
-## 🚧 Em constante evolução
-
-- Em andamento, Pós-Graduação em Software Architecture na FIAP.
 
 ---
 
